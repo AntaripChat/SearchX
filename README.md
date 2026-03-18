@@ -231,7 +231,7 @@ GET /search?q=laptop
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Antarip Chatterjee**
 
 ---
 
